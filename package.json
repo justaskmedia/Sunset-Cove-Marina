@@ -1,0 +1,19 @@
+{
+  "name": "sunsetcovemarina",
+  "version": "2.0.0",
+  "description": "the new website for sunset cove marina",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justaskmedia/Sunset-Cove-Marina.git"
+  },
+  "author": "Andrew Kelly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justaskmedia/Sunset-Cove-Marina/issues"
+  },
+  "homepage": "https://github.com/justaskmedia/Sunset-Cove-Marina"
+}

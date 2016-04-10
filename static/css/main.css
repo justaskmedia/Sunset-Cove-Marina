@@ -1,0 +1,11 @@
+.all-provinces tr:hover {
+	cursor: pointer;
+}
+
+.table-hover>tbody>tr:hover {
+	background: #fcbe32;
+}
+
+.table {
+	margin-top: 40px;
+}

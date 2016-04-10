@@ -1,0 +1,42 @@
+<!doctype html>
+<html class="no-js" lang="en" ng-app="provApp">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Canadian Provinces</title>
+        <meta name="description" content="A test application for Morneau Shepell">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		
+        <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="static/css/main.css">
+    </head>
+    <body ng-controller="SunsetCoveController">
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                  <a class="navbar-brand" href="#">Canadian Provinces</a>
+                </div>
+            </div>
+        </nav>
+
+        <div class="container container-fluid">
+        	<div ng-view></div>
+        </div>
+        
+
+        <script src="bower_components/angular/angular.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-route.js"></script>
+
+        <script src="bower_components/jquery/dist/jquery.min.js"></script>
+        <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script src="static/js/script.js"></script>
+
+    </body>
+</html>

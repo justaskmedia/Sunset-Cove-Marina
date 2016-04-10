@@ -1,0 +1,23 @@
+<div ng-controller="ProvincesController">
+
+		<h1> Top Cities <small>{{provinceName}}</small></h1>
+
+                <p>These are the top three cities in {{provinceName}} and their population based on the most recent studies of data available.</p>
+
+                
+
+        	<table class="table table-striped table-responsive">
+        		<thead>
+        			<tr>
+        				<th ng-click="setSort('cityName')">City Name</th>
+        				<th ng-click="setSort('cityPopulation')">City Population</th>
+        			</tr>
+        		</thead>
+        		<tbody>
+        			<tr ng-repeat="city in cities | orderBy:['cityPopulation']:reverse">
+        				<td><em>{{city.cityName}}</em></td>
+        				<td>{{city.cityPopulation | number}}</td>
+        			</tr>
+        		</tbody>
+        	</table>	
+        </div>

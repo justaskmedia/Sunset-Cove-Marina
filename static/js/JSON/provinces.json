@@ -1,0 +1,185 @@
+{
+	"provinces": [{
+		"provinceName": "Alberta",
+		"provinceCode": "AB",
+		"provincePopulation": 4196500,
+		"topCities": [{
+			"cityName": "Calagry",
+			"cityPopulation": 1096833
+		}, {
+			"cityName": "Edmonton",
+			"cityPopulation": 812201
+		}, {
+			"cityName": "Strathcona County",
+			"cityPopulation": 92490
+		}]
+	}, {
+		"provinceName": "British Columbia",
+		"provinceCode": "BC",
+		"provincePopulation": 4683100,
+		"topCities": [{
+			"cityName": "Vancouver",
+			"cityPopulation": 648608
+		}, {
+			"cityName": "Surrey",
+			"cityPopulation": 526004
+		}, {
+			"cityName": "Burnaby",
+			"cityPopulation": 238209
+		}]
+	}, {
+		"provinceName": "Manitoba",
+		"provinceCode": "MB",
+		"provincePopulation": 1293400,
+		"topCities": [{
+			"cityName": "Winnipeg",
+			"cityPopulation": 663617
+		}, {
+			"cityName": "Brandon",
+			"cityPopulation": 46061
+		}, {
+			"cityName": "Steinbach",
+			"cityPopulation": 13524
+		}]
+	}, {
+		"provinceName": "New Brunswick",
+		"provinceCode": "NB",
+		"provincePopulation": 753900,
+		"topCities": [{
+			"cityName": "Saint John",
+			"cityPopulation": 70063
+		}, {
+			"cityName": "Moncton",
+			"cityPopulation": 69074
+		}, {
+			"cityName": "Fredericton",
+			"cityPopulation": 56224
+		}]
+	}, {
+		"provinceName": "Newfoundland & Labrador",
+		"provinceCode": "NL",
+		"provincePopulation": 527800,
+		"topCities": [{
+			"cityName": "St. John's",
+			"cityPopulation": 106172
+		}, {
+			"cityName": "Conception Bay South",
+			"cityPopulation": 24848
+		}, {
+			"cityName": "Mount Pearl",
+			"cityPopulation": 24284
+		}]
+	}, {
+		"provinceName": "Northwest Territories",
+		"provinceCode": "NWT",
+		"provincePopulation": 44100,
+		"topCities": [{
+			"cityName": "Yellowknife",
+			"cityPopulation": 19234
+		}, {
+			"cityName": "Hay River",
+			"cityPopulation": 3606
+		}, {
+			"cityName": "Inuvik",
+			"cityPopulation": 3463
+		}]
+	}, {
+		"provinceName": "Nova Scotia",
+		"provinceCode": "NS",
+		"provincePopulation": 943000,
+		"topCities": [{
+			"cityName": "Halifax",
+			"cityPopulation": 390096
+		}, {
+			"cityName": "Cape Breton",
+			"cityPopulation": 97398
+		}, {
+			"cityName": "Truro",
+			"cityPopulation": 12059
+		}]
+	}, {
+		"provinceName": "Nunavut",
+		"provinceCode": "NU",
+		"provincePopulation": 36900,
+		"topCities": [{
+			"cityName": "Iqaluit (Frobisher Bay)",
+			"cityPopulation": 6699
+		}, {
+			"cityName": "Arviat (Eskimo Point)",
+			"cityPopulation": 2318
+		}, {
+			"cityName": "Rankin Inlet (Kangiqliniq)",
+			"cityPopulation": 2266
+		}]
+	}, {
+		"provinceName": "Ontario",
+		"provinceCode": "ON",
+		"provincePopulation": 13792100,
+		"topCities": [{
+			"cityName": "Toronto",
+			"cityPopulation": 2615060
+		}, {
+			"cityName": "Ottawa",
+			"cityPopulation": 883391
+		}, {
+			"cityName": "Mississauga",
+			"cityPopulation": 713443
+		}]
+	}, {
+		"provinceName": "Prince Edward Island",
+		"provinceCode": "PEI",
+		"provincePopulation": 146400,
+		"topCities": [{
+			"cityName": "Charlottetown",
+			"cityPopulation": 34562
+		}, {
+			"cityName": "Summerside",
+			"cityPopulation": 14751
+		}, {
+			"cityName": "Stratford",
+			"cityPopulation": 8574
+		}]
+	}, {
+		"provinceName": "Quebec",
+		"provinceCode": "QB",
+		"provincePopulation": 8263600,
+		"topCities": [{
+			"cityName": "Montréal",
+			"cityPopulation": 1754980
+		}, {
+			"cityName": "Québec",
+			"cityPopulation": 542045
+		}, {
+			"cityName": "Laval",
+			"cityPopulation": 425205
+		}]
+	}, {
+		"provinceName": "Saskatchewan",
+		"provinceCode": "SA",
+		"provincePopulation": 1133600,
+		"topCities": [{
+			"cityName": "Saskatoon",
+			"cityPopulation": 222189
+		}, {
+			"cityName": "Regina",
+			"cityPopulation": 193100
+		}, {
+			"cityName": "Prince Albert",
+			"cityPopulation": 35129
+		}]
+	}, {
+		"provinceName": "Yukon",
+		"provinceCode": "YU",
+		"provincePopulation": 37400,
+		"topCities": [{
+			"cityName": "Whitehorse",
+			"cityPopulation": 23276
+		}, {
+			"cityName": "Dawson City",
+			"cityPopulation": 1319
+		}, {
+			"cityName": "Watson Lake",
+			"cityPopulation": 802
+		}]
+	}]
+}
